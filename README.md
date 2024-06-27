@@ -40,3 +40,8 @@ Understanding algorithms, logic, and data structures was crucial for implementin
 
 ![Blog Homepage](./assets/Homepage-blog-capture.png)
 ![Blog Homepage](./assets/screencapture-127-0-0-1-5500-Deployment-Responsive-blog-jQuery-post-page-html-2024-06-26-23_22_57.png)
+
+
+
+
+
